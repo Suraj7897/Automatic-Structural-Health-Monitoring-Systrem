@@ -10,3 +10,11 @@ alerts to the relevant authorities and engineers to inspect the
 structure in case of any issues. Various parameters should be
 considered like length of the bridge, traffic rate, wind speed, unequal
 loads, etc.
+
+
+# Video Solution
+
+
+
+https://user-images.githubusercontent.com/107802002/213759060-bff0b6d2-24c0-4452-b331-b64be043b680.mp4
+
