@@ -1,4 +1,4 @@
-# Hackmega
+# Automatic Bridge Heath MOnitoring
 
 Developing an embedded system for
 detecting and analysing structural integrity of bridges and buildings.
