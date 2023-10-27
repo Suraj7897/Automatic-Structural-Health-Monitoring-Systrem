@@ -1,4 +1,4 @@
-# Automatic Bridge Heath MOnitoring
+# Automatic Structural Health Monitoring Systrem
 
 Developing an embedded system for
 detecting and analysing structural integrity of bridges and buildings.
