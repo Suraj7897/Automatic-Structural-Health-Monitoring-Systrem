@@ -41,3 +41,9 @@ python main.py
 📸 <span style="color:#e67e22;">Video/ Demo</span>
 
 https://user-images.githubusercontent.com/107802002/213759060-bff0b6d2-24c0-4452-b331-b64be043b680.mp4
+
+![WhatsApp Image 2023-07-14 at 8 59 25 PM](https://github.com/user-attachments/assets/257a6aff-f1bf-430a-9c2c-69ff5c98c352)
+
+![Model](https://github.com/user-attachments/assets/f5f03b82-10e8-4415-a442-364ec4d8dcef)
+
+
